@@ -1,6 +1,6 @@
 # ✨ DIO Landing Page
 
-Este projeto é uma **landing page responsiva** desenvolvida como parte do desafio "Construa uma Landing Page de Produtos com HTML e CSS" da DIO (Digital Innovation One). Ele demonstra a criação de uma página web moderna e adaptável a diferentes tamanhos de tela.
+Este projeto é uma **landing page responsiva** desenvolvida como parte do desafio da **DIO (Digital Innovation One) - formação CSS developer**. Ele demonstra a criação de uma página web moderna e adaptável a diferentes tamanhos de tela.
 
 ---
 
